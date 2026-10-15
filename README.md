@@ -4,6 +4,9 @@ A blueprint-styled city planning sim. Start in March 1900 with §10,000 and buil
 
 ![Blueprint City screenshot](<Blueprint City - screenshot.png>)
 
+![Laying out roads and zones (and deciding how to cross the water)](screenshots/gameplay.png)
+*Laying out roads and zones (and deciding how to cross the water)*
+
 ## What you can do
 
 - Zone **residential**, **commercial** and **industrial** land and watch demand change
